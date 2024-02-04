@@ -1,5 +1,5 @@
 # 👋🏻 codeeon☀️
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodeeon&count_bg=%23877EFF&title_bg=%237CCEDF&icon=&icon_color=%233D2626&title=visits&edge_flat=false)
+<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodeeon&count_bg=%23877EFF&title_bg=%237CCEDF&icon=&icon_color=%233D2626&title=visits&edge_flat=false) -->
 
 <br/>
 
