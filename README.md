@@ -1,26 +1,15 @@
-# 👋🏻 codeeon☀️
-<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodeeon&count_bg=%23877EFF&title_bg=%237CCEDF&icon=&icon_color=%233D2626&title=visits&edge_flat=false) -->
-
-<br/>
-
-## 🧑🏻‍💻 My Favorites <br/><br/> ![JavaScript](https://camo.githubusercontent.com/7561512f11d01460d080ed72087ea14535535547296c7a439b64d14ad2429e26/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73267065726c696e653d31) ![TypeScript](https://camo.githubusercontent.com/9ab3e5fb429ef8948da32bdcccbfdd4968bf20c4ec95687931e6fa7425c09de2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473267065726c696e653d31) ![React](https://camo.githubusercontent.com/7f2410ec3e4df0b1cc9d5df8612e639e1efd5551cb4d2343cf9b539ee0ea9991/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374267065726c696e653d31)
-<!-- <br/><br/> ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled%20components-%23DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white) <br/> -->
-<br/><br/>
-
-<!--
-**codeeon/codeeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeon_develop)](https://solved.ac/yeon_develop/)
-![Programmers-rank](https://github.com/codeeon/github-programmers-rank/blob/master/lib/result.svg)
+<h1> 
+👋🏻 codeeon☀️
+</h1>
+<h3 style="text-align: left;">⭐️ My favorites</h3>
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://skillicons.dev/icons?i=js&perline=1"/>
+  <img src="https://skillicons.dev/icons?i=ts&perline=1"/>
+  <img src="https://skillicons.dev/icons?i=react&perline=1"/>
+</div>
+<div style="display: flex; align-items: flex-start;">
+  <a href='https://solved.ac/yeon_develop'>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeon_develop"/>
+  </a>
+  <img src="https://github.com/codeeon/github-programmers-rank/blob/master/lib/result.svg"/>
+</div>
