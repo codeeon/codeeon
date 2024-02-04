@@ -3,7 +3,8 @@
 
 <br/>
 
-# 🧑🏻‍💻 Frontend Developer <br/><br/> ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled%20components-%23DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white) <br/>
+## 🧑🏻‍💻 My Favorites <br/><br/> ![JavaScript](https://camo.githubusercontent.com/7561512f11d01460d080ed72087ea14535535547296c7a439b64d14ad2429e26/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73267065726c696e653d31) ![TypeScript](https://camo.githubusercontent.com/9ab3e5fb429ef8948da32bdcccbfdd4968bf20c4ec95687931e6fa7425c09de2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473267065726c696e653d31) ![React](https://camo.githubusercontent.com/7f2410ec3e4df0b1cc9d5df8612e639e1efd5551cb4d2343cf9b539ee0ea9991/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374267065726c696e653d31)
+<!-- <br/><br/> ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled%20components-%23DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white) <br/> -->
 <br/><br/>
 
 <!--
