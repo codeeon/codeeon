@@ -1,4 +1,10 @@
-### Hi there 👋
+# 👋🏻 Codeeon☀️
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodeeon&count_bg=%23877EFF&title_bg=%237CCEDF&icon=&icon_color=%233D2626&title=visits&edge_flat=false)
+
+<br/>
+
+# 🧑🏻‍💻 Frontend Developer <br/><br/> ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled%20components-%23DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white) <br/>
+<br/><br/>
 
 <!--
 **codeeon/codeeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/codeeon/github-programmers-rank/blob/master/lib/result.svg)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeon_develop)](https://solved.ac/yeon_develop/)
+![Programmers-rank](https://github.com/codeeon/github-programmers-rank/blob/master/lib/result.svg)
